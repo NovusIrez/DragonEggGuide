@@ -1,0 +1,24 @@
+header:
+  - title: Home
+    url: /
+
+  - title: Blog
+    url: /pages/index
+
+  - title: Archive
+    url: /pages/archive
+
+  - title: Docs
+    url: /docs/gist
+
+  - title: About
+    url: /pages/about
+  
+  - title: Donate
+    url: /pages/donate
+
+docs:
+  - title:      Start
+    children:
+      - title:  The Gist
+        url:    /docs/gist
