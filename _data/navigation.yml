@@ -6,7 +6,7 @@ header:
     url: /docs/gist
 
 docs:
-  - title:      Guide
+  - title:      Start
     children:
-      - title:  The Gist
+      - title:  Guide
         url:    /docs/gist
