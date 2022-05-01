@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Welcome
+title: Reincarnated as a Dragon Hatchling
 article_header:
   type: overlay
   theme: dark
@@ -14,25 +14,4 @@ article_header:
 
 <!-- ![Irushia](https://media.discordapp.net/attachments/707408985895993374/707437128279261234/RAADE-Vol12_full_cover1.jpg) -->
 
-## NovusIrez site
-powered by Jekyll
-
-<div class="card">
-  <div class="card__content">
-   <div class="card__header">
-    <b>My Social Media</b>
-    </div>
-<a href="https://github.com/NovusIrez" target="_blank">
-<span class="fa-stack fa-lg">
-  <i class="fa-brands fa-github fa-stack-3x"></i>
-</span>MyGithub</a><br>
-<a href="myLink" target="_blank">
-<span class="fa-stack fa-lg">
-  <i class="fa-brands fa-twitter fa-stack-3x"></i>
-</span>MyTwitter</a><br>
-<a href="myLink" target="_blank">
-<span class="fa-stack fa-lg">
-  <i class="fa-brands fa-deviantart fa-stack-3x"></i>
-</span>MyDeviantart</a><br>
-</div>
-</div>
+## Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road
