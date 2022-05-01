@@ -1,19 +1,12 @@
 ---
 
 layout: article
-title: The Gist
+title: Dragon Egg Reading Guide
 
 ---
 
-Naturally, after playing around this site I will document what I've learned
-
-## Summary
-
-I'm using Jekyll along with Jekyll-TeXt-theme, a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-
-## The Repo
-
-[The Repo](https://github.com/kitian616/jekyll-TeXt-theme)
-
-![Repo image](https://media.discordapp.net/attachments/944831699878047746/945352116669648987/Screenshot_152.png)
+#### Discord Links
+You can find translators, resources and help here
+- [dsrealm](https://discord.gg/5YvW4e7Dxp)
+- [Eclipse Tower](https://discord.gg/eCnvvEXN4a)(Once was a leading translator but on indefinite hiatus, you can find me here though)
 

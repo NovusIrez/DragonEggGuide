@@ -2,11 +2,11 @@ header:
   - title: Home
     url: /
 
-  - title: Docs
+  - title: Guide
     url: /docs/gist
 
 docs:
-  - title:      Start
+  - title:      Guide
     children:
       - title:  The Gist
         url:    /docs/gist
