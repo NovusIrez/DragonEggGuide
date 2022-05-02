@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "5e5749c9c5ac8906",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd8be45a962f2f69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gist.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18ca5da1391df365",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f96e029884355db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07bc72d7a46062b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14a8fb7e99afde5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7be7e4371d5fc213",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e31d9a158419e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cc4a80dc6c5281",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd8be45a962f2f69",
+  "lastOpenFiles": [
+    "gist.md"
+  ]
+}
