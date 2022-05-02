@@ -4,6 +4,19 @@ layout: article
 title: Dragon Egg Reading Guide
 
 ---
+##### Synopsis
+
+When I came to, there I was—in a strange and unfamiliar forest.
+
+Here, it seems apparent that it’s like a fantasy world, one brimming with magical and fantastical beasts. Far from being just a fantasy world, though, it would look as if I am able to peer into the numerical stats and abilities of my foes and I, not unlike that of a game.
+
+Hunt down magical beasts, level up, rack up ⟨Titles⟩, and evolve into ever-higher-ranked dragons!
+
+A mysterious and enigmatic voice echoing through my head pressures me; it’s tellin’ me: ⟦Aim for the strongest⟧!
+
+(taken from Mangadex)
+
+##### Where to start?
 
 **It is recommended that you read the manga first**
 
