@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Reincarnated as a Dragon Egg ～Lets Aim to Be the Strongest～
+title: Reincarnated as a Dragon Egg Lets Aim to Be the Strongest
 article_header:
   type: overlay
   theme: dark
