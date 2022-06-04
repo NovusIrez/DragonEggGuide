@@ -14,4 +14,4 @@ article_header:
 
 ## Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road
 
-[Read the Guide](/NovusDragonEggGuide/docs/gist){:.button.button--primary.button--pill}
+[Read the Guide](/DragonEggGuide/docs/gist){:.button.button--primary.button--pill}
